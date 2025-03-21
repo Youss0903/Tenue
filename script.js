@@ -2,29 +2,29 @@ let currentStep = 1;
 let imageIndex = 0;
 
 const tshirts = [
-    'images/tshirt/tshirt1.png',
-    'images/tshirt/tshirt2.png',
-    'images/tshirt/tshirt3.png'
+    'images/Tshirt/tshirt1.png',
+    'images/Tshirt/tshirt2.png',
+    'images/Tshirt/tshirt3.png'
 ];
 
 const hauts = [
-    'images/haut/haut1.png',
-    'images/haut/haut2.png',
-    'images/haut/haut3.png',
-    'images/haut/haut4.png',
-    'images/haut/haut5.png',
-    'images/haut/haut6.png',
-    'images/haut/haut7.png',
-    'images/haut/haut8.png',
-    'images/haut/haut9.png',
-    'images/haut/haut10.png'
+    'images/Haut/haut1.png',
+    'images/Haut/haut2.png',
+    'images/Haut/haut3.png',
+    'images/Haut/haut4.png',
+    'images/Haut/haut5.png',
+    'images/Haut/haut6.png',
+    'images/Haut/haut7.png',
+    'images/Haut/haut8.png',
+    'images/Haut/haut9.png',
+    'images/Haut/haut10.png'
 ];
 
 const basOptions = [
-    'images/bas/bas1.png',
-    'images/bas/bas2.png',
-    'images/bas/bas3.png',
-    'images/bas/bas4.png'
+    'images/Bas/bas1.png',
+    'images/Bas/bas2.png',
+    'images/Bas/bas3.png',
+    'images/Bas/bas4.png'
 ];
 
 let selections = {
