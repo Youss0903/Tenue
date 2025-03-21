@@ -4,11 +4,11 @@ let imageIndex = 0;
 const tshirts = [
     'images/Tshirt/Tshirt1.png',
     'images/Tshirt/Tshirt2.png',
-    'images/Tshirt/Tshirt3.png'
+    'images/Tshirt/tshirt3.png',
 ];
 
 const hauts = [
-    'images/Haut/Haut1.png',
+    'images/Haut/haut1.png',
     'images/Haut/Haut2.png',
     'images/Haut/Haut3.png',
     'images/Haut/Haut4.png',
