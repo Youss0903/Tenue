@@ -9,22 +9,22 @@ const tshirts = [
 
 const hauts = [
     'images/Haut/haut1.png',
-    'images/Haut/Haut2.png',
-    'images/Haut/Haut3.png',
-    'images/Haut/Haut4.png',
-    'images/Haut/Haut5.png',
-    'images/Haut/Haut6.png',
-    'images/Haut/Haut7.png',
-    'images/Haut/Haut8.png',
-    'images/Haut/Haut9.png',
-    'images/Haut/Haut10.png'
+    'images/Haut/haut2.png',
+    'images/Haut/haut3.png',
+    'images/Haut/haut4.png',
+    'images/Haut/haut5.png',
+    'images/Haut/haut6.png',
+    'images/Haut/haut7.png',
+    'images/Haut/haut8.png',
+    'images/Haut/haut9.png',
+    'images/Haut/haut10.png'
 ];
 
 const basOptions = [
-    'images/Bas/Bas1.png',
-    'images/Bas/Bas2.png',
-    'images/Bas/Bas3.png',
-    'images/Bas/Bas4.png'
+    'images/Bas/bas1.png',
+    'images/Bas/bas2.png',
+    'images/Bas/bas3.png',
+    'images/Bas/bas4.png'
 ];
 
 let selections = {
