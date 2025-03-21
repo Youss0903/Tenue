@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Tenue Youss</title>
+    <link rel="icon" href="images/logo.png" type="image/png" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <!-- Toggle Bar -->
+    <div class="top-bar">
+        <button id="reset-button">🏠</button>
+        <button id="kamis-button">Kamis</button>
+    </div>
+
+    <!-- Aperçu à gauche -->
+    <div id="preview-container" class="preview-container">
+        <div id="preview"></div>
+    </div>
+
+    <!-- Sélection des vêtements -->
+    <div class="center-container">
+        <img id="current-item" src="images/tshirt/tshirt1.png" alt="Choix actuel" />
+    </div>
+
+    <div class="button-group">
+        <button onclick="nextImage()">Suivant</button>
+        <button onclick="validateItem()">Valider</button>
+    </div>
+
+    <!-- Sélection Doudoune -->
+    <div id="doudoune-selection" class="doudoune-container">
+        <p>Voulez-vous ajouter une doudoune ?</p>
+        <button onclick="chooseDoudoune(true)">Oui</button>
+        <button onclick="chooseDoudoune(false)">Non</button>
+    </div>
+
+    <!-- Rendu final -->
+    <div id="final-screen" class="final-container">
+        <h2>Rendu Final</h2>
+        <div id="final-preview"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
